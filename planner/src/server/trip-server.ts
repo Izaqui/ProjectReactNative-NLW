@@ -33,8 +33,8 @@ async function create({
       starts_at,
       ends_at,
       emails_to_invite,
-      owner_name: "Rodrigo Gonçalves",
-      owner_email: "rodrigo.rgtic@gmail.com",
+      owner_name: "Izaquiel Silva",
+      owner_email: "izaquiel@gmail.com",
     })
 
     return data
